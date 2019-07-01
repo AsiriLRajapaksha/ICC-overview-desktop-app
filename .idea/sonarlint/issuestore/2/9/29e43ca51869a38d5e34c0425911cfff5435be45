@@ -1,0 +1,33 @@
+
+usquid:S00116"QRename this field "Label2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•øõ¹øÿÿÿÿ8Ü£˜½º-
+usquid:S2077_"RUse a variable binding mechanism to construct this query instead of concatenation.(Å˜ø“ùÿÿÿÿ8¾’œ¿º-
+Psquid:S1905("-Remove this unnecessary cast to "Connection".(¶ûÃ‚ıÿÿÿÿ8˜ÊÏ™º-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü°ĞŠúÿÿÿÿ
+squid:S1845"cRename field "Label1" to prevent any misunderstanding/clash with field "label1" defined on line 20.(¢®ÿ•8ñú ½º-
+Ksquid:S1068"-Remove this unused "comboBox2" private field.(´¸µ 8 Şœ¿º-
+psquid:S00116"QRename this field "Label1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®ÿ•8ñú ½º-
+Hsquid:S00108g")Either remove or fill this block of code.(”ı¾8½üµ¼º-
+¤squid:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯ÕÊŠøÿÿÿÿ8´´Ç™º-
+Fsquid:S1604)"(Make this anonymous inner class a lambda(Í‡ƒø8´´Ç™º-
+Fsquid:S1604V"(Make this anonymous inner class a lambda(• ‚8½üµ¼º-
+Msquid:S1068"*Remove this unused "label1" private field.(ÇÏ‹Öùÿÿÿÿ8’Ã¡½º-
+Isquid:S1068"+Remove this unused "button1" private field.(İ¢ÈÒ8±‰ÕÉº-
+Qsquid:S1068".Remove this unused "textField3" private field.(”€†ğşÿÿÿÿ8±‰ÕÉº-
+Qsquid:S1068".Remove this unused "textField2" private field.(ˆûÓ‘ûÿÿÿÿ8±‰ÕÉº-
+Msquid:S1068"*Remove this unused "Label2" private field.(•øõ¹øÿÿÿÿ8±‰ÕÉº-
+Hsquid:S1068"*Remove this unused "Label1" private field.(¢®ÿ•8±‰ÕÉº-
+Qsquid:S1068".Remove this unused "textField4" private field.(ÌÁ¿Šúÿÿÿÿ8±‰ÕÉº-
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(¯Ò©ıÿÿÿÿ8±‰ÕÉº-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(´¥Éíüÿÿÿÿ8±‰ÕÉº-
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(€ÈÁ›ıÿÿÿÿ8±‰ÕÉº-
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(Í¾Ğ¡øÿÿÿÿ8±‰ÕÉº-
+nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(€Î¸Úÿÿÿÿÿ8±‰ÕÉº-
+isquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ç†äü8±‰ÕÉº-
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(¶¾¡í8±‰ÕÉº-
+isquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(”´É8±‰ÕÉº-
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8±‰ÕÉº-
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8±‰ÕÉº-
+Csquid:S1948"%Make "con" transient or serializable.(¶‹ïÒ8±‰ÕÉº-
+Hsquid:S1948"%Make "pst" transient or serializable.(¢Öµ¿üÿÿÿÿ8±‰ÕÉº-
+Gsquid:S1948"$Make "rs" transient or serializable.(ÀÇÄûÿÿÿÿ8±‰ÕÉº-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ü°ĞŠúÿÿÿÿ8±‰ÕÉº-
